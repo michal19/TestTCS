@@ -3,4 +3,4 @@
 !lib.a
 a/tmp.*
 a/**/tmp.*
-TODO/
+/TODO/
