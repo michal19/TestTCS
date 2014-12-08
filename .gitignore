@@ -1,4 +1,4 @@
 *~
 *.a
 !lib.a
-a/tmp.*
+a/*/tmp.*
